@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 
 🔭 Passionate about AI, NLP, and agent-based modeling  
 
-🤖 Exploring ROS2 & AI models for computer vision & NLP (RAG, LangChain)
+🤖 Exploring ROS2, AI models, computer vision & NLP 
 
 🛠 Thrilled about Building Stuff :)
 
 🎯 Goal: Developing AI-powered solutions & contributing to open-source
+
+⚡ Fun Fact: I was born at a very young age
 
 
 ### 🚀 Tech Stack  
