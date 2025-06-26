@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 🎯 Goal: Developing AI-powered solutions & contributing to open-source
 
-⚡ Fun Fact: I was born at a very young age
+⚡ Fun Fact: Was born at a very young age
 
 
 ### 🚀 Tech Stack  
